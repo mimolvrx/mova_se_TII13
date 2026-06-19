@@ -36,6 +36,6 @@ O **Mova-se** é um site inspirado em plataformas de turismo de aventura, com fo
 
 ## 👩🏻‍💻 Desenvolvedora
 
-**Yasmim Macedo**
+**Yasmim Oliveira**
 
 [GitHub](https://github.com/mimolvrx) • [LinkedIn](https://www.linkedin.com/in/yasmim-macedo-de-oliveira-635a2a403)
