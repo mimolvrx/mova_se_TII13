@@ -15,7 +15,7 @@ O **Mova-se** é um site inspirado em plataformas de turismo de aventura, com fo
 
 ## 📸 Preview
 
-![Preview do projeto](readme/preview.png)
+![Preview do projeto]()
 
 ## ✨ Funcionalidades
 
